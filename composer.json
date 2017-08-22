@@ -1,6 +1,6 @@
 {
   "config": {
-  	"wp-theme-name": "wp-timber-theme",
+  	"wp-theme-name": "wp-trumps-theme",
     "vendor-dir": "wp-content/themes/{$wp-theme-name}/vendor"
   },
   "require": {
