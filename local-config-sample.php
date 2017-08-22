@@ -74,9 +74,9 @@ define('WP_DEBUG', false);
  * Wordpress URLs. Update WP_LOCALHOST_ADDRESS to match the address where you 
  * will serve this site locally.
  */
-define('WP_LOCALHOST_ADDRESS', 'http://localhost:3000');
-define('WP_HOME', WP_LOCAL_ADDRESS);
-define('WP_SITEURL', WP_LOCAL_ADDRESS . '/wp');
+define('WP_LOCALHOST_ADDRESS', 'http://localhost:8000');
+define('WP_HOME', WP_LOCALHOST_ADDRESS);
+define('WP_SITEURL', WP_LOCALHOST_ADDRESS . '/wp');
 
 /* That's all, stop editing! Happy blogging. */
 
