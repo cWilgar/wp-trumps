@@ -18,5 +18,5 @@ Knowledge of:
 1. Start your server [eg `php -S localhost:8000`]
 
 1. Navigate to `https://local.example.com/wp/wp-admin` to access wp-admin 
--Activate all plugins.
--Make sure pretty permalinks is enables for API calls to work
+   - Activate all plugins.
+   - Make sure pretty permalinks is enables for API calls to work
