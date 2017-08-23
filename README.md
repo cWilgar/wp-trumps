@@ -1,4 +1,4 @@
-# Personal Wordpress boilerplate.
+# Top-trumps CMS theme
 
 This is not intended to be treated as a full app for hosting anywhere. Rather a local wrapper for theme development and keeping track of dependency versions.
 
@@ -18,12 +18,12 @@ Knowledge of:
 1. Start your server [eg `php -S localhost:8000`]
 
 1. Navigate to `https://local.example.com/wp/wp-admin` to access wp-admin 
-   - Activate all plugins.
+   - Activate all plugins
    - Make sure pretty permalinks is enables for API calls to work
 
 ## Usage
 
-This site is hosted on wp-engine at https://carliney.wpengine.com
+This site is hosted on wp-engine at https://carliney.wpengine.com.
 There is a custom endpoint for getting all of the trump card data in a tidy format at https://carliney.wpengine.com/wp-json/wp-trumps/v1/cards/
 
 ## Deployment
