@@ -24,6 +24,4 @@ Knowledge of:
 
 ## Usage
 
-This site was hosted on wp-engine at https://carliney.wpengine.com - However I have cancelled my account with them and am currently setting up a new host - coming soon.
-
-~~There is a custom endpoint for getting all of the trump card data in a tidy format at https://carliney.wpengine.com/wp-json/wp-trumps/v1/cards/~~
+This site is hosted at https://roline.xyz. So there is an endpoint for getting all of the trump card data in a tidy format at https://roline.xyz/wp-json/wp-trumps/v1/cards/
